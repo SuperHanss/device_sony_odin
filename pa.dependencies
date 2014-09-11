@@ -31,12 +31,6 @@
     },
     {
         "remote":       "github",
-        "repository":   "SuperHanss/android_hardware_qcom_audio-caf",
-        "target_path":  "hardware/qcom/audio-caf",
-        "revision":     "cm-11.0"
-    },    
-    {
-        "remote":       "github",
         "repository":   "CyanogenMod/android_hardware_sony_DASH",
         "target_path":  "hardware/sony/DASH",
         "revision":     "cm-11.0"
